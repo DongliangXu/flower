@@ -1,0 +1,12 @@
+Package: flower
+Title: plot flower plot when group more than 6
+Version: 0.0.0.9000
+Authors@R: person("Xu", "Dongliang", email = "577198016@qq.com", role = c("aut", "cre"))
+Description: create a flower plot when group more than six
+Depends: R (>= 3.4.2)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+  plotrix
+RoxygenNote: 6.0.1
